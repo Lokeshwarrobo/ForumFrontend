@@ -1,0 +1,47 @@
+.Login {
+    padding: 10px 0;
+}
+  
+.Login form {
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+#parent {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 7%;
+    margin-bottom: 5%;
+    height: 35%;
+    width: 65%;
+    box-shadow: 3px 3px black;
+    border-radius: 20px;
+}
+
+#c1 {
+    background-image: url("../images/sample.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10%;
+}
+
+#er1 {
+    color: red;
+    font-family: Calibri;
+    font-size: 12px;
+}
+
+#user {
+    font-family: Calibri;
+    font-size: 12px;
+}
+
+#label {
+    color: black;
+}
+
+#login {
+    background-color: #0000ff;
+    color: white;
+}
+
